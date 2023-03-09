@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**pashagolub/pashagolub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+pavlogolub=# SELECT * FROM pg_settings;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name         |                                setting
+--------------------------------------------------------------------------------------
+Name         | Pavlo Golub
+Origin       | Kropyvnytskyi, UA
+Location     | Bratislava, SK
+Career start | 2002-01-01 00:00:00.000
+Work         | <a href="https://www.cybertec-postgresql.com/en/">Cybertec PostgreSQL International</a>
+Community    | <a href="https://www.facebook.com/groups/postgresql.ua">PostgreSQL Ukraine co-founder</a>
+Social       | {<a href="https://www.cybertec-postgresql.com/en/author/cybertec_golub/">Blog</a>, <a href="https://www.facebook.com/pasha.golub/">Facebook</a>, <a href="https://www.linkedin.com/in/pashagolub/">LinkedIn</a>, <a href="https://twitter.com/PavloGolub/">Twitter</a>, <a href="https://postgresql.life/post/pavlo_golub/">PostgreSQL.Life</a>, <a href="https://stackoverflow.com/users/1109280/pavlo-golub">Stack Overflow</a>}
+Invaders     | Must Die!
+Слава        | Україні!🇺🇦
+</pre>
