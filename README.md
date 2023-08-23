@@ -6,6 +6,7 @@ pavlogolub=# SELECT * FROM pg_settings;
 name         |                                setting
 --------------------------------------------------------------------------------------
 Name         | Pavlo Golub
+IPA          | [<a href="https://en.wiktionary.org/wiki/File:Uk-%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE.ogg">pɐu̯ˈɫɔ</a> <a href="https://en.wiktionary.org/wiki/File:Uk-%D0%B3%D0%BE%D0%BB%D1%83%D0%B1.ogg">ˈɦɔɫʊb</a>]
 Height       | 202cm
 Weight       | NaN
 Origin       | Kropyvnytskyi, UA
