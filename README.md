@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Pavlo Golub profile views](https://u8views.com/api/v1/github/profiles/9463113/views/day-week-month-total-count.svg)](https://u8views.com/github/pashagolub)
 
 <pre>
 pavlogolub=# SELECT * FROM pg_settings;
@@ -18,3 +18,4 @@ Social       | {<a href="https://www.cybertec-postgresql.com/en/author/cybertec_
 Invaders     | Must Die!
 Слава        | Україні!🇺🇦
 </pre>
+
